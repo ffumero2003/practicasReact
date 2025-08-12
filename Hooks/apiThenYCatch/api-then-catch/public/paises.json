@@ -1,0 +1,1287 @@
+[
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada"
+    },
+    "capital": ["Ottawa"],
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 38000000,
+    "area": 9984670,
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "currencies": {
+      "CAD": {
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Canadian",
+        "m": "Canadian"
+      }
+    },
+    "borders": ["USA"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "France",
+      "official": "French Republic"
+    },
+    "capital": ["Paris"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 65000000,
+    "area": 551695,
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "French",
+        "m": "French"
+      }
+    },
+    "borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
+    "capital": ["Brasília"],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 212559417,
+    "area": 8515767,
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "BRL": {
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Brazilian",
+        "m": "Brazilian"
+      }
+    },
+    "borders": ["ARG", "BOL", "COL", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Japan",
+      "official": "Japan"
+    },
+    "capital": ["Tokyo"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 125360000,
+    "area": 377975,
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "currencies": {
+      "JPY": {
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Japanese",
+        "m": "Japanese"
+      }
+    },
+    "borders": [],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia"
+    },
+    "capital": ["Canberra"],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 25687041,
+    "area": 7692024,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Australian",
+        "m": "Australian"
+      }
+    },
+    "borders": [],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "India",
+      "official": "Republic of India"
+    },
+    "capital": ["New Delhi"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1380004385,
+    "area": 3287263,
+    "languages": {
+      "hin": "Hindi",
+      "eng": "English"
+    },
+    "currencies": {
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Indian",
+        "m": "Indian"
+      }
+    },
+    "borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany"
+    },
+    "capital": ["Berlin"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 83783942,
+    "area": 357582,
+    "languages": {
+      "deu": "German"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "German",
+        "m": "German"
+      }
+    },
+    "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States"
+    },
+    "capital": ["Mexico City"],
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 128932753,
+    "area": 1964375,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "MXN": {
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Mexican",
+        "m": "Mexican"
+      }
+    },
+    "borders": ["BLZ", "GTM", "USA"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    "capital": ["London"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 67886011,
+    "area": 243610,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "British",
+        "m": "British"
+      }
+    },
+    "borders": ["IRL"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China"
+    },
+    "capital": ["Beijing"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 1402000000,
+    "area": 9596961,
+    "languages": {
+      "zho": "Chinese"
+    },
+    "currencies": {
+      "CNY": {
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Chinese",
+        "m": "Chinese"
+      }
+    },
+    "borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa"
+    },
+    "capital": ["Pretoria", "Cape Town", "Bloemfontein"],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 59308690,
+    "area": 1221037,
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "currencies": {
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "South African",
+        "m": "South African"
+      }
+    },
+    "borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation"
+    },
+    "capital": ["Moscow"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 145912025,
+    "area": 17124442,
+    "languages": {
+      "rus": "Russian"
+    },
+    "currencies": {
+      "RUB": {
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Russian",
+        "m": "Russian"
+      }
+    },
+    "borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic"
+    },
+    "capital": ["Buenos Aires"],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 45376763,
+    "area": 2780400,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "ARS": {
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Argentine",
+        "m": "Argentine"
+      }
+    },
+    "borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria"
+    },
+    "capital": ["Abuja"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 206139587,
+    "area": 923768,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Nigerian",
+        "m": "Nigerian"
+      }
+    },
+    "borders": ["BEN", "CMR", "TCD", "NER"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt"
+    },
+    "capital": ["Cairo"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 102334404,
+    "area": 1002450,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Egyptian",
+        "m": "Egyptian"
+      }
+    },
+    "borders": ["ISR", "LBY", "SDN"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic"
+    },
+    "capital": ["Rome"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 60317116,
+    "area": 301340,
+    "languages": {
+      "ita": "Italian"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Italian",
+        "m": "Italian"
+      }
+    },
+    "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain"
+    },
+    "capital": ["Madrid"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 47351567,
+    "area": 505990,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Spanish",
+        "m": "Spanish"
+      }
+    },
+    "borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea"
+    },
+    "capital": ["Seoul"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 51780579,
+    "area": 100210,
+    "languages": {
+      "kor": "Korean"
+    },
+    "currencies": {
+      "KRW": {
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "South Korean",
+        "m": "South Korean"
+      }
+    },
+    "borders": ["PRK"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia"
+    },
+    "capital": ["Jakarta"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 273523615,
+    "area": 1904569,
+    "languages": {
+      "ind": "Indonesian"
+    },
+    "currencies": {
+      "IDR": {
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      },
+      "TRY": {
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Indonesian",
+        "m": "Indonesian"
+      }
+    },
+    "borders": ["TLS", "MYS", "PNG"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey"
+    },
+    "capital": ["Ankara"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 84339067,
+    "area": 783562,
+    "languages": {
+      "tur": "Turkish"
+    },
+    "currencies": {
+      "TRY": {
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Turkish",
+        "m": "Turkish"
+      }
+    },
+    "borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia"
+    },
+    "capital": ["Riyadh"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 34813871,
+    "area": 2149690,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "SAR": {
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Saudi",
+        "m": "Saudi"
+      }
+    },
+    "borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands"
+    },
+    "capital": ["Amsterdam"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 17441139,
+    "area": 41850,
+    "languages": {
+      "nld": "Dutch"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Dutch",
+        "m": "Dutch"
+      }
+    },
+    "borders": ["BEL", "DEU"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden"
+    },
+    "capital": ["Stockholm"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 10353442,
+    "area": 450295,
+    "languages": {
+      "swe": "Swedish"
+    },
+    "currencies": {
+      "SEK": {
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Swedish",
+        "m": "Swedish"
+      }
+    },
+    "borders": ["FIN", "NOR"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland"
+    },
+    "capital": ["Warsaw"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 37736697,
+    "area": 312696,
+    "languages": {
+      "pol": "Polish"
+    },
+    "currencies": {
+      "PLN": {
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Polish",
+        "m": "Polish"
+      }
+    },
+    "borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia"
+    },
+    "capital": ["Bogotá"],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 50882891,
+    "area": 1138910,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Colombian",
+        "m": "Colombian"
+      }
+    },
+    "borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand"
+    },
+    "capital": ["Bangkok"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 69799978,
+    "area": 513120,
+    "languages": {
+      "tha": "Thai"
+    },
+    "currencies": {
+      "THB": {
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Thai",
+        "m": "Thai"
+      }
+    },
+    "borders": ["MMR", "KHM", "LAO", "MYS"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya"
+    },
+    "capital": ["Nairobi"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 53771296,
+    "area": 580367,
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "currencies": {
+      "KES": {
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Kenyan",
+        "m": "Kenyan"
+      }
+    },
+    "borders": ["ETH", "SOM", "SSD", "TZA", "UGA"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam"
+    },
+    "capital": ["Hanoi"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 97338579,
+    "area": 331212,
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "currencies": {
+      "VND": {
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Vietnamese",
+        "m": "Vietnamese"
+      }
+    },
+    "borders": ["KHM", "CHN", "LAO"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile"
+    },
+    "capital": ["Santiago"],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 19116201,
+    "area": 756102,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Chilean",
+        "m": "Chilean"
+      }
+    },
+    "borders": ["ARG", "BOL", "PER"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru"
+    },
+    "capital": ["Lima"],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 32971854,
+    "area": 1285216,
+    "languages": {
+      "spa": "Spanish",
+      "que": "Quechua",
+      "aym": "Aymara"
+    },
+    "currencies": {
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Peruvian",
+        "m": "Peruvian"
+      }
+    },
+    "borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria"
+    },
+    "capital": ["Algiers"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 44700000,
+    "area": 2381741,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Algerian",
+        "m": "Algerian"
+      }
+    },
+    "borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco"
+    },
+    "capital": ["Rabat"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 36910560,
+    "area": 446550,
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "currencies": {
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Moroccan",
+        "m": "Moroccan"
+      }
+    },
+    "borders": ["DZA", "ESH", "ESP"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine"
+    },
+    "capital": ["Kyiv"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 44124693,
+    "area": 603548,
+    "languages": {
+      "ukr": "Ukrainian"
+    },
+    "currencies": {
+      "UAH": {
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Ukrainian",
+        "m": "Ukrainian"
+      }
+    },
+    "borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia"
+    },
+    "capital": ["Kuala Lumpur"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 32365999,
+    "area": 330803,
+    "languages": {
+      "msa": "Malay"
+    },
+    "currencies": {
+      "MYR": {
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Malaysian",
+        "m": "Malaysian"
+      }
+    },
+    "borders": ["BRN", "IDN", "THA"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines"
+    },
+    "capital": ["Quezon City"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 109581078,
+    "area": 300000,
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    },
+    "currencies": {
+      "PHP": {
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Filipino",
+        "m": "Filipino"
+      }
+    },
+    "borders": [],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan"
+    },
+    "capital": ["Islamabad"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 220892340,
+    "area": 881913,
+    "languages": {
+      "urd": "Urdu",
+      "eng": "English"
+    },
+    "currencies": {
+      "PKR": {
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Pakistani",
+        "m": "Pakistani"
+      }
+    },
+    "borders": ["AFG", "CHN", "IND", "IRN"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh"
+    },
+    "capital": ["Dhaka"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 164689383,
+    "area": 147570,
+    "languages": {
+      "ben": "Bengali"
+    },
+    "currencies": {
+      "BDT": {
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Bangladeshi",
+        "m": "Bangladeshi"
+      }
+    },
+    "borders": ["MMR", "IND"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran"
+    },
+    "capital": ["Tehran"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 83992949,
+    "area": 1648195,
+    "languages": {
+      "fas": "Persian"
+    },
+    "currencies": {
+      "IRR": {
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Iranian",
+        "m": "Iranian"
+      }
+    },
+    "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia"
+    },
+    "capital": ["Addis Ababa"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 114963588,
+    "area": 1104300,
+    "languages": {
+      "amh": "Amharic"
+    },
+    "currencies": {
+      "ETB": {
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Ethiopian",
+        "m": "Ethiopian"
+      }
+    },
+    "borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana"
+    },
+    "capital": ["Accra"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 31072940,
+    "area": 238533,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Ghanaian",
+        "m": "Ghanaian"
+      }
+    },
+    "borders": ["BFA", "CIV", "TGO"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq"
+    },
+    "capital": ["Baghdad"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 40222493,
+    "area": 438317,
+    "languages": {
+      "ara": "Arabic",
+      "kur": "Kurdish"
+    },
+    "currencies": {
+      "IQD": {
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Iraqi",
+        "m": "Iraqi"
+      }
+    },
+    "borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Albania",
+      "official": "Republic of Albania"
+    },
+    "capital": ["Tirana"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 2877797,
+    "area": 28748,
+    "languages": {
+      "sqi": "Albanian"
+    },
+    "currencies": {
+      "ALL": {
+        "name": "Albanian lek",
+        "symbol": "L"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Albanian",
+        "m": "Albanian"
+      }
+    },
+    "borders": ["MNE", "KOS", "MKD", "GRC"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria"
+    },
+    "capital": ["Vienna"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 8917205,
+    "area": 83871,
+    "languages": {
+      "deu": "German"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Austrian",
+        "m": "Austrian"
+      }
+    },
+    "borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium"
+    },
+    "capital": ["Brussels"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 11555997,
+    "area": 30528,
+    "languages": {
+      "nld": "Dutch",
+      "fra": "French",
+      "deu": "German"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Belgian",
+        "m": "Belgian"
+      }
+    },
+    "borders": ["FRA", "DEU", "LUX", "NLD"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia"
+    },
+    "capital": ["Sucre", "La Paz"],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 11673021,
+    "area": 1098581,
+    "languages": {
+      "spa": "Spanish",
+      "que": "Quechua",
+      "aym": "Aymara"
+    },
+    "currencies": {
+      "BOB": {
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Bolivian",
+        "m": "Bolivian"
+      }
+    },
+    "borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
+    "independent": true
+  }]

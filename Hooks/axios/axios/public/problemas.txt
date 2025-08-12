@@ -1,0 +1,14 @@
+// 1. Listá el nombre de todas las ubicaciones disponibles.
+// 2. Mostrá cuántas ubicaciones hay por tipo (ej: Planet, Space station, etc.).
+// 3. Mostrá las ubicaciones que tienen más de 10 residentes.
+// 4. Ordená las ubicaciones por cantidad de residentes, de mayor a menor.
+// 5. Mostrá la primera ubicación de tipo "Space station".
+// 6. Filtrá las ubicaciones cuyo nombre incluya la palabra "Earth".
+// 7. Mostrá las ubicaciones agrupadas por tipo en un objeto.
+// 8. Contá cuántas ubicaciones hay por dimensión.
+// 9. Mostrá las 5 ubicaciones con más residentes.
+// 10. Mostrá el total de residentes sumando todas las ubicaciones.
+// 11. Mostrá solo las ubicaciones sin residentes.
+// 13. Mostrá las dimensiones únicas sin repetir.
+// 14. Filtrá las ubicaciones que no tengan tipo definido (type vacío).
+
